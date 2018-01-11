@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "ICV-AU", 
+            "course": "chemsc12", 
             "name": "inorganic_chemistrylab.jpg", 
-            "org": "Amrita-University", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "inorganic_chemistrylab.jpg", 
-        "filename": "asset-v1:Amrita-University+ICV-AU+Anytime+type@asset+block@inorganic_chemistrylab.jpg", 
+        "filename": "asset-v1:Virtual-Labs+chemsc12+Anytime+type@asset+block@inorganic_chemistrylab.jpg", 
         "import_path": "inorganic_chemistrylab.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "Amrita-University", 
-            "ICV-AU", 
+            "Virtual-Labs", 
+            "chemsc12", 
             "thumbnail", 
             "inorganic_chemistrylab.jpg", 
             null
